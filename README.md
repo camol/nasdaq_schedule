@@ -1,4 +1,4 @@
-# NasdaqSchedule
+# NasdaqSchedule [![Build Status](https://travis-ci.org/camol/nasdaq_schedule.svg?branch=master)](https://travis-ci.org/camol/nasdaq_schedule)
 
 ActiveSupport::TimeWithZone extension. Provides a set of set instance methods which return specific time informations according to Nasdaq working schedule and market hours. Nasdaq schedule can be found here http://www.nasdaq.com/about/trading-schedule.aspx . The market timezone is EST/EDT.
 
