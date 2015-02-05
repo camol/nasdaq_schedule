@@ -24,8 +24,7 @@ date = Time.zone.now => Tue, 09 Dec 2014 14:01:10 PST -08:00
 date.in_nasdaq_time_zone
 => Tue, 09 Dec 2014 17:01:10 EST -05:00 
 
-# 'nasdaq_holiday?' returns true if the given date is a Nasdaq holiday,
-otherwise false.
+# 'nasdaq_holiday?' returns true if the given date is a Nasdaq holiday, otherwise false.
 date.nasdaq_holiday?
 => false
 
